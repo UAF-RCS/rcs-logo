@@ -6,7 +6,12 @@ Research Computing Systems Logo development repo.
 Development spot for the RCS logo.
 
 
-# draft option 1 by Dayne
+### draft option 1
 
-![./draft-option-1/rcs-logo-thumb.png](./draft-option-1/rcs-logo-thumb.png)
+Omnigraffle diagram with a systems and endpoints as a basis for the logo by Dayne
+
+![./draft-option-1/rcs-logo.png](./draft-option-1/rcs-logo.png)
+
+
+### 
 
