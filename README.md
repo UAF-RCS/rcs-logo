@@ -1,4 +1,12 @@
-# logo
-development spot for the RCS logo
+# RCS logo
 
-![rcs-logo-thumb.jpg](rcs-logo-thumb.jpg)
+Research Computing Systems Logo development repo.
+
+
+Development spot for the RCS logo.
+
+
+# draft option 1 by Dayne
+
+![./draft-option-1/rcs-logo-thumb.jpg](./draft-option-1/rcs-logo-thumb.jpg)
+
