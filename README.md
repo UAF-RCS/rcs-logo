@@ -12,7 +12,7 @@ Omnigraffle diagram with a systems and endpoints as a basis for the logo by @day
 
 ![./draft-option-1/rcs-logo.png](./draft-option-1/rcs-logo.png)
 
-Another version by @loforbes with the classic computer font (console) and the internal, external service end points and management end point used.
+Another version by @loforbes with the classic computer font (console) and the internal, [external service end points and management end point](rcs-endpoints/rcs_endpoints.jpg) used.
 
 ![./draft-option-1/rcs-logo-liam.png](./draft-option-1/rcs-logo-liam.png)
 
