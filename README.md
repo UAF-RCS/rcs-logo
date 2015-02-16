@@ -22,3 +22,7 @@ Another version by @loforbes with the classic computer font (console) and the in
 Who says the draft logo options have to be done in Omnigraffle.  Crayons are valid logo drafting tools (or in this case sharpy marker and colored pencil by @dayne)
 
 ![./draft-option-2/option2.jpeg](./draft-option-2/option2.jpeg)
+
+And then later make them into fancy things:
+
+![./draft-option-2/option2-d.png](./draft-option-2/option2-d.png)
